@@ -51,4 +51,5 @@ cargo install evcxr_jupyter
 rustup component add rust-src
 sudo apt install jupyter-notebook
 jupyter notebook
+EOF
 ```
